@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastNotification", "ToastNotification\ToastNotification.csproj", "{7B1CA365-5E55-4EB3-9790-F013B49F8158}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B1CA365-5E55-4EB3-9790-F013B49F8158}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B1CA365-5E55-4EB3-9790-F013B49F8158}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B1CA365-5E55-4EB3-9790-F013B49F8158}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B1CA365-5E55-4EB3-9790-F013B49F8158}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD0861C0-2EC2-422F-8F1C-67D33D83CB77}
+	EndGlobalSection
+EndGlobal
